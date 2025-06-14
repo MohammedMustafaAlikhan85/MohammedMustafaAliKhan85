@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammed Mustafa Ali Khan
 
-<!--
-**MohammedMustafaAlikhan85/MohammedMustafaAliKhan85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | Future Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+- 🔍 Currently learning **Python** and building projects like Amazon Clone and Registration Forms
+- 📊 Focused on **Data Analytics**, **Data Visualization**, and **Business Intelligence Tools**
+- 🛡️ Planning to explore **Cybersecurity** after mastering Data Analytics
+- 💻 Comfortable using **VS Code**, **GitHub**, and exploring HTML/CSS basics
+- 🌱 Always curious to learn and explore new technologies and skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" width="350"/>
+
+## 📫 Connect with me
+- 📧 Email: [mohammedmustafaalikhan9@gmail.com](mailto:mohammedmustafaalikhan9@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/mohammed-mustafa-ali-khan-b8a310270](https://www.linkedin.com/in/mohammed-mustafa-ali-khan-b8a310270)
+- 🐱 GitHub: [MohammedMustafaAliKhan85](https://github.com/MohammedMustafaAliKhan85)
+
+---
+
+![](https://komarev.com/ghpvc/?username=MohammedMustafaAliKhan85&label=Profile+Views&color=0e75b6&style=flat)
+

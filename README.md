@@ -49,17 +49,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Makdev85/Makdev85/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
-> 💡 *The snake animation needs a one-time GitHub Actions workflow to generate `github-contribution-grid-snake.svg`. Ask me if you'd like the workflow file set up.*
-
----
 
 ### 📫 Connect with Me
 

@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Mohammed%20Mustafa%20Ali%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20Engineer%20%7C%20Automation%20Enthusiast&descSize=18&descAlignY=58" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Python+%F0%9F%90%8D;Building+Cloud+%26+Automation+Projects+%E2%98%81%EF%B8%8F;Exploring+Cybersecurity+Next+%F0%9F%9B%A1%EF%B8%8F;Always+Curious%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Python+%F0%9F%90%8D;Building+Cloud+%26+Automation+Projects+%E2%98%81%EF%B8%8F;Exploring+New Technologies+%F0%9F%9B%A1%EF%B8%8F;Always+Curious%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 </div>

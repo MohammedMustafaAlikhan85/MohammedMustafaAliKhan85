@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedMakdev85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Makdev85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makdev85&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
 
 <img src="https://streak-stats.demolab.com?user=MohammedMustafaAliKhan85&theme=tokyonight&hide_border=true" width="70%"/>

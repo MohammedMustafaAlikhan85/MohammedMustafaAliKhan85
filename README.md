@@ -30,8 +30,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedMustafaAliKhan85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAliKhan85&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedMakdev85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makdev85&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
 
 <img src="https://streak-stats.demolab.com?user=MohammedMustafaAliKhan85&theme=tokyonight&hide_border=true" width="70%"/>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MohammedMustafaAliKhan85/Makdev85/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Makdev85/Makdev85/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 

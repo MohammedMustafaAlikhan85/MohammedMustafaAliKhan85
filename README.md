@@ -63,8 +63,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammedMustafaAliKhan85&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
 
 </div>

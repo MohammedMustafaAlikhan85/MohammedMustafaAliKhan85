@@ -40,13 +40,13 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMakdev85&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dMakdev85&show_icons=true&theme=dark)
 
 ---
 
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAliKhan85&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makdev85&layout=compact&theme=dark)
 
 ---
 

@@ -39,13 +39,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMakdev85&show_icons=true&theme=dark)
 
-<div align="center">
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Makdev85&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</div>
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMustafaAliKhan85&layout=compact&theme=dark)
 
 ---
 

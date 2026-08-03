@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Mohammed%20Mustafa%20Ali%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=58" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Cloud+Projects%3B+Learning+DevOps+Tools%3B+Automating+with+Python" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3c72,100:2a5298&amp;height=220&amp;section=header&amp;text=Mohammed%20Mustafa%20Ali%20Khan&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&amp;descSize=18&amp;descAlignY=58" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Cloud+Projects%3B+Learning+DevOps+Tools%3B+Automating+with+Python%3B+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</a>
 </div>
 
 ---

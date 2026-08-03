@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mohammed%20Mustafa%20Ali%20Khan&fontSize=40&fontColor=ffffff&color=0:1e3c72,100:2a5298"/>
+
+</div>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Cloud+Projects;Learning+DevOps+Tools;Automating+with+Python;Always+Learning%2C+Always+Growing" alt="Typing SVG"/>
 </a>

@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,grafana,ansible,linux,python,html,css,git,github,vscode" width="620"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,grafana,ansible,linux,python,html,css,git,github,vscode" width="620"/>
 </div>
 
 ---
